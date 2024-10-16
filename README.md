@@ -4,6 +4,7 @@ A collection of Must Know Topics.
 
 ## Index
 * [Data Structures](#data-structures)
+* [Algorithms](#algorithms)
 
 
 ## Data Structures
@@ -155,4 +156,231 @@ Sure! Here are additional data structures, along with some variations and specia
 
 3. **Segment Tree with Dynamic Size**
    - A segment tree that can adapt its size based on the input.
+
+
+## Algorithms
+Here’s a comprehensive combined list of common algorithms organized into various categories, including both basic and advanced algorithms:
+
+### 1. **Sorting Algorithms**
+- **Comparison-Based Sorting**
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+  - Shell Sort
+  - Tim Sort
+- **Non-Comparison-Based Sorting**
+  - Counting Sort
+  - Radix Sort
+  - Bucket Sort
+- **Adaptive Sorting Algorithms**
+  - Smoothsort
+  - Bead Sort
+  - Gnome Sort
+  - Comb Sort
+- **Distribution Sort**
+  - Flashsort
+  - Pigeonhole Sort
+  - Stooge Sort
+
+### 2. **Search Algorithms**
+- **Linear Search**
+- **Binary Search**
+- **Ternary Search**
+- **Exponential Search**
+- **Interpolation Search**
+- **Jump Search**
+- **Fibonacci Search**
+- **Graph Search Variants**
+  - Depth-First Search (DFS)
+  - Breadth-First Search (BFS)
+  - Uniform Cost Search
+  - Bidirectional Search
+- **Heuristic Search**
+  - Best-First Search
+  - Hill Climbing Search
+  - Simulated Annealing
+
+### 3. **Graph Algorithms**
+- **Traversal Algorithms**
+  - Depth-First Search (DFS)
+  - Breadth-First Search (BFS)
+- **Shortest Path Algorithms**
+  - Dijkstra's Algorithm
+  - Bellman-Ford Algorithm
+  - Floyd-Warshall Algorithm
+  - A* Search Algorithm
+- **Minimum Spanning Tree Algorithms**
+  - Prim's Algorithm
+  - Kruskal's Algorithm
+  - Reverse-Delete Algorithm
+- **Flow Algorithms**
+  - Ford-Fulkerson Method
+  - Edmonds-Karp Algorithm
+  - Dinic's Algorithm
+- **Cycle Detection Algorithms**
+  - Floyd-Warshall Cycle Detection
+  - Union-Find Algorithm (Disjoint Set)
+- **Topological Sorting**
+- **Graph Coloring**
+- **Connected Components**
+
+### 4. **Dynamic Programming Algorithms**
+- **Knapsack Problem**
+- **Longest Common Subsequence**
+- **Longest Increasing Subsequence**
+- **Fibonacci Sequence**
+- **Matrix Chain Multiplication**
+- **Coin Change Problem**
+- **Edit Distance**
+- **Traveling Salesman Problem (TSP)**
+- **Job Scheduling Problem**
+- **Bin Packing Problem**
+- **Palindrome Partitioning**
+
+### 5. **Greedy Algorithms**
+- **Activity Selection Problem**
+- **Huffman Coding**
+- **Minimum Spanning Tree**
+  - Prim's Algorithm
+  - Kruskal's Algorithm
+- **Job Sequencing Problem**
+- **Fractional Knapsack Problem**
+- **Coin Change (Greedy vs. Dynamic Programming)**
+
+### 6. **Backtracking Algorithms**
+- **N-Queens Problem**
+- **Sudoku Solver**
+- **Rat in a Maze**
+- **Hamiltonian Cycle**
+- **Subset Sum Problem**
+- **Generating Permutations**
+- **Generating Combinations**
+- **Graph Coloring Problems**
+- **Word Search Problems**
+
+### 7. **Divide and Conquer Algorithms**
+- **Merge Sort**
+- **Quick Sort**
+- **Binary Search**
+- **Strassen's Algorithm for Matrix Multiplication**
+- **Convex Hull Algorithms**
+  - Graham's Scan
+  - Jarvis March
+- **Fast Fourier Transform (FFT)**
+- **Karatsuba Algorithm for Fast Multiplication**
+
+### 8. **Mathematical Algorithms**
+- **Greatest Common Divisor (GCD)**
+- **Least Common Multiple (LCM)**
+- **Sieve of Eratosthenes (Prime Number Generation)**
+- **Fermat's Little Theorem**
+- **Fast Exponentiation**
+- **Monte Carlo Method**
+- **Number Theory Algorithms**
+  - Pollard's Rho Algorithm (for Factorization)
+  - Miller-Rabin Primality Test
+  - Chinese Remainder Theorem
+  - Lucas Sequence
+
+### 9. **String Algorithms**
+- **Knuth-Morris-Pratt (KMP) Algorithm**
+- **Rabin-Karp Algorithm**
+- **Boyer-Moore Algorithm**
+- **Longest Common Substring**
+- **Suffix Array and Suffix Tree**
+- **Trie Data Structure**
+- **Pattern Matching Algorithms**
+  - Aho-Corasick Algorithm
+  - Z Algorithm
+- **String Distance Algorithms**
+  - Levenshtein Distance
+  - Jaro-Winkler Distance
+
+### 10. **Data Structure Algorithms**
+- **Binary Tree Traversals**
+- **Balanced Tree Operations (AVL, Red-Black Tree)**
+- **Hashing Techniques**
+- **Heap Operations (Min-Heap, Max-Heap)**
+- **Segment Trees**
+  - Range Queries
+  - Lazy Propagation
+- **Fenwick Tree (Binary Indexed Tree)**
+- **Splay Trees**
+- **Skip Lists**
+- **K-D Trees (for multidimensional data)**
+
+### 11. **Machine Learning Algorithms**
+- **Linear Regression**
+- **Logistic Regression**
+- **Decision Trees**
+- **Random Forests**
+- **Support Vector Machines (SVM)**
+- **K-Means Clustering**
+- **Neural Networks**
+- **Gradient Descent Algorithms**
+- **Ensemble Methods**
+  - Bagging (e.g., Bootstrap Aggregating)
+  - Boosting (e.g., AdaBoost, XGBoost)
+- **Clustering Algorithms**
+  - Hierarchical Clustering
+  - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+- **Dimensionality Reduction Algorithms**
+  - Principal Component Analysis (PCA)
+  - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+
+### 12. **Miscellaneous Algorithms**
+- **Flood Fill Algorithm**
+- **Cache Algorithms**
+  - Least Recently Used (LRU)
+  - Least Frequently Used (LFU)
+- **Networking Algorithms**
+  - Dijkstra's Algorithm (for routing)
+  - Bellman-Ford Algorithm (for routing)
+- **Simulation Algorithms**
+  - Discrete Event Simulation
+  - Markov Chain Monte Carlo (MCMC)
+
+### 13. **Cryptographic Algorithms**
+- **Symmetric Key Algorithms**
+  - AES (Advanced Encryption Standard)
+  - DES (Data Encryption Standard)
+- **Asymmetric Key Algorithms**
+  - RSA (Rivest-Shamir-Adleman)
+  - Diffie-Hellman Key Exchange
+- **Hash Functions**
+  - SHA (Secure Hash Algorithms)
+  - MD5 (Message-Digest Algorithm 5)
+
+### 14. **Computer Vision Algorithms**
+- **Image Processing Algorithms**
+  - Canny Edge Detection
+  - Hough Transform
+- **Feature Detection Algorithms**
+  - SIFT (Scale-Invariant Feature Transform)
+  - SURF (Speeded Up Robust Features)
+
+### 15. **Game Algorithms**
+- **Pathfinding Algorithms**
+  - A* Algorithm
+  - Dijkstra’s Algorithm
+- **AI Algorithms**
+  - Minimax Algorithm
+  - Alpha-Beta Pruning
+
+### 16. **Approximation Algorithms**
+- **Vertex Cover Problem**
+- **Set Cover Problem**
+- **Traveling Salesman Problem (TSP) Approximation**
+
+### 17. **Distributed Algorithms**
+- **Leader Election Algorithms**
+- **Consensus Algorithms**
+  - Paxos
+  - Raft
+- **MapReduce Framework Algorithms**
+
+
 
