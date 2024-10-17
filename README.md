@@ -5,7 +5,7 @@ A collection of Must Know Topics.
 ## Index
 * [Data Structures](#data-structures)
 * [Algorithms](#algorithms)
-
+* [Patterns](#patterns)
 
 ## Data Structures
 Here’s a comprehensive list of common data structures, organized into categories:
@@ -381,6 +381,129 @@ Here’s a comprehensive combined list of common algorithms organized into vario
   - Paxos
   - Raft
 - **MapReduce Framework Algorithms**
+
+
+## Patterns
+
+### 1. **Array Patterns**
+- Two Pointer
+- Sliding Window
+- Prefix Sum
+- Kadane’s Algorithm
+- Dutch National Flag
+- XOR Patterns
+- Combination Sum
+
+### 2. **String Patterns**
+- Pattern Matching
+- Two Pointer for Strings
+- Sliding Window for Strings
+- Longest Palindromic Substring
+- String Compression
+- Anagram Checking
+
+### 3. **Linked List Patterns**
+- Fast and Slow Pointers
+- Reversal of a Linked List
+- Merge Two Sorted Lists
+- Cycle Detection
+- Remove N-th Node from End
+- Intersection of Two Linked Lists
+
+### 4. **Tree Patterns**
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Level Order Traversal
+- Lowest Common Ancestor
+- Tree Traversal Patterns (Inorder, Preorder, Postorder)
+- Serialize and Deserialize a Binary Tree
+- Binary Tree Maximum Path Sum
+
+### 5. **Graph Patterns**
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Topological Sort
+- Dijkstra’s Algorithm
+- Floyd-Warshall Algorithm
+- Kruskal’s Algorithm
+- Prim’s Algorithm
+- Connected Components
+- Cycle Detection in Graphs
+
+### 6. **Dynamic Programming Patterns**
+- 1D DP (Fibonacci, Climbing Stairs)
+- 2D DP (Knapsack, Longest Common Subsequence)
+- Memoization
+- Tabulation
+- Optimal Substructure
+- Coin Change Problem
+- Palindrome Partitioning
+
+### 7. **Backtracking Patterns**
+- N-Queens Problem
+- Permutations and Combinations
+- Subset Sum Problem
+- Sudoku Solver
+- Word Search
+- Generate Parentheses
+
+### 8. **Greedy Patterns**
+- Activity Selection
+- Huffman Coding
+- Fractional Knapsack Problem
+- Job Sequencing Problem
+- Minimum Spanning Tree (Prim’s and Kruskal’s)
+- Coin Change (Greedy vs. Dynamic Programming)
+
+### 9. **Divide and Conquer Patterns**
+- Merge Sort
+- Quick Sort
+- Binary Search
+- Matrix Multiplication
+- Closest Pair of Points
+- Finding K-th Largest Element
+
+### 10. **Concurrency Patterns**
+- Producer-Consumer
+- Observer
+- Active Object
+- Thread Pool
+- Read-Write Lock
+- Barrier
+- Fork-Join
+
+### 11. **Architectural Patterns**
+- Model-View-Controller (MVC)
+- Microservices
+- Event-Driven Architecture
+- Service-Oriented Architecture (SOA)
+- Layered Architecture
+- Client-Server Architecture
+- Publish-Subscribe
+
+### 12. **Miscellaneous Patterns**
+- Caching
+- Rate Limiting
+- Throttling
+- Event Sourcing
+- Command Query Responsibility Segregation (CQRS)
+- Repository Pattern
+- Dependency Injection
+
+### 13. **Mathematical Patterns**
+- Sieve of Eratosthenes
+- Euclidean Algorithm
+- Fast Exponentiation
+- Monte Carlo Method
+- Combinatorial Patterns
+
+### 14. **Networking Patterns**
+- Client-Server Model
+- Load Balancing
+- Circuit Breaker
+- API Gateway
+
+
 
 
 
