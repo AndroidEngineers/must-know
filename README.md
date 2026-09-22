@@ -1,3 +1,5 @@
+> **Archived learning reference.** New learning content is maintained at [Android Engineers Academy](https://www.androidengineers.in/roadmap). For interview preparation, use the [question library](https://www.androidengineers.in/questions). The exercises and historical catalog below remain available for reference.
+
 # Android Engineering Foundations
 
 Practice the data structures and reasoning that appear in everyday Android work. Start with the small exercises below, then use the [historical topic catalog](docs/topic-catalog.md) as a reference rather than a required checklist.
@@ -47,6 +49,3 @@ For `[2, 5, 8, 12, 19]`, search for 12. The middle value is 8, so discard it and
 
 [Android Engineers Academy](https://www.androidengineers.in/roadmap?utm_source=github&utm_medium=repository&utm_campaign=must-know) provides the broader learning paths. Apply a foundation in the [Compose masterclass](https://github.com/AndroidEngineers/jetpack-compose-masterclass), then explain the choice in your project README.
 
-## Contribute
-
-Add one focused explanation or worked exercise with inputs, expected outputs, edge cases, and a complexity or engineering tradeoff. Prefer a reproducible example over extending the topic catalog. Include the checks you ran.
